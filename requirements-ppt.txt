@@ -1,0 +1,4 @@
+# For generating the IDOR Lab presentation
+# Run: pip install -r requirements-ppt.txt
+# Then: python create_idor_ppt.py
+python-pptx>=0.6.21

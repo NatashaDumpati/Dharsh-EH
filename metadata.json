@@ -1,0 +1,5 @@
+{
+  "name": "IDOR Vulnerability Lab",
+  "description": "An interactive educational platform demonstrating Insecure Direct Object Reference (IDOR) vulnerabilities in a realistic medical records portal.",
+  "requestFramePermissions": []
+}
